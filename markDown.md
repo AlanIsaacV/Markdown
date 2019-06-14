@@ -168,9 +168,9 @@ imagen: DaffSteel
 
 
 ### Imagenes: icono para enlace
-[icono](images/photo.jpg "DaffSteel Icono")
+[icono](/imagenes/colores.jpg "DaffSteel Icono")
 
-[Icono]: imagnes/icono.png
+[Icono]: /imagenes/Icono.png
 
 <br>
 
