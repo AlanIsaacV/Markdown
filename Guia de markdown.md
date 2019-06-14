@@ -15,8 +15,6 @@ Indice
     1. [Tablas](#Tablas)
         1. [Otros usos de las tablas](#Otros%20usos%20de%20las%20tablas)
     1. [Enlaces](#Enlaces)
-        1. [Imagenes: Directo](#Imagenes:%20Directo)
-        1. [Imagenes: Icono para enlace](#Imagenes:%20Icono%20para%20enlace)
     1. [Caracteres especiales](#Caracteres%20especiales)
 1. [Codigo](#Codigo)
     1. [Escribiendo codigo](#Escribiendo%20codigo)
@@ -158,19 +156,6 @@ Es posible definir el [Enlace] para hacer mas legible el texto, o tener dos vers
 No hay sensibilidad a mayusculas. Puede haber mas de una palabra.
 
 [enlace]: http://es.wikipedia.org/wiki/Hiperenlace "Hiperenlace"
-
-<br>
-
-### Imagenes: directo
-imagen: DaffSteel
-[Daffsteel](imageness/colores.jpg "Tıtulo optional")
-
-
-
-### Imagenes: icono para enlace
-[icono](/imagenes/colores.jpg "DaffSteel Icono")
-
-[Icono]: /imagenes/Icono.png
 
 <br>
 
