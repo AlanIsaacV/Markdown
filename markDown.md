@@ -5,14 +5,28 @@ Indice
 1. [Elementos basicos](#Elementos%20basicos)
     1. [Titulos](#Titulos)
     1. [tipografia](#Tipografia)
-1. [Mas elemntos de texto](#)
-    1. [.](#)
-1. [Codigo](#)
-    1. [.](#)
-1. [Referencias bibliograficas](#)
-    1. [.](#)
-1. [References](#)
+    1. [Parrafos](#Parrafos)
+        1. [Mas de un parrafo](#Mas%20de%20un%20parrafo)
+    1. [Listas](#Listas)
+        1. [Anidacion de Listas](#Anidacion%20de%20listas)
+        1. [Enumeraciones](#Enumeraciones)
+1. [Mas elementos de texto](#Mas%20elementos%20de%20texto)
+    1. [Citas](#Citas)
+    1. [Tablas](#Tablas)
+        1. [Otros usos de las tablas](#Otros%20usos%20de%20las%20tablas)
+    1. [Enlaces](#Enlaces)
+        1. [Imagenes: Directo](#Imagenes:%20Directo)
+        1. [Imagenes: Icono para enlace](#Imagenes:%20Icono%20para%20enlace)
+    1. [Caracteres especiales](#Caracteres%20especiales)
+1. [Codigo](#Codigo)
+    1. [Escribiendo codigo](#Escribiendo%20codigo)
+    1. [Resaltado de sintaxis](#Resaltado%20de%20sintaxis)
+        1. [python](#python)
+        1. [javascript](#javascript)
+    1. [Inclusion de codigo de texto](#Inclusion%20de%20codigo%20de%20texto)
 ___
+
+
 ___
 <br><br><br>
 
@@ -60,6 +74,17 @@ viverra eleifend tortor.
 
 <br>
 
+### Mas de un parrafo
+1. Esto es un parrafo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec nisi a sem porta ornare ac a nulla.
+Pellentesque consectetur viverra neque.
+    
+    Este es otro. Cras porta magna at sapien mollis pharetra.
+Duis hendrerit scelerisque lectus, eget pellentesque erat volutpat vel.
+
+2. Este es otro item.
+
+<br>
+
 ## Listas
 * Es facil hacer una lista de items
 - añadiendo otro
@@ -82,17 +107,6 @@ viverra eleifend tortor.
     1. pero seamos sistematicos
 2. Para terminar
 
-<br>
-
-## Mas de un parrafo en una entrada
-
-1. Esto es un parrafo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec nisi a sem porta ornare ac a nulla.
-Pellentesque consectetur viverra neque.
-    
-    Este es otro. Cras porta magna at sapien mollis pharetra.
-Duis hendrerit scelerisque lectus, eget pellentesque erat volutpat vel.
-
-2. Este es otro item.
 
 <br><br><br>
 
@@ -127,7 +141,7 @@ Los dos puntos se utilizan para determinar la alineacion
 
 <br>
 
-## Otros usos de la tablas
+### Otros usos de las tablas
 | Uso de markdown | Justificacion |
 | --------------- | ------------- |
 Para no iniciados | Cuando los usuarios no son usuarios avanzados de software para creacion de documentos. 
@@ -135,7 +149,7 @@ Creacion de borradores | Para trabajar despreocupados de aspectos formales, pero
 
 <br>
 
-## Enlaces y definiciones
+## Enlaces
 [GitHub: AlanVazquez](https://github.com/AlanVazquez99/ "Comentario sobre el enlace")
 <https://github.com/AlanVazquez99/>
  
@@ -146,3 +160,74 @@ No hay sensibilidad a mayusculas. Puede haber mas de una palabra.
 [enlace]: http://es.wikipedia.org/wiki/Hiperenlace "Hiperenlace"
 
 <br>
+
+### Imagenes: directo
+imagen: DaffSteel
+[Daffsteel](imageness/colores.jpg "Tıtulo optional")
+
+
+
+### Imagenes: icono para enlace
+[icono](images/photo.jpg "DaffSteel Icono")
+
+[Icono]: imagnes/icono.png
+
+<br>
+
+## Caracteres especiales
+* Contra barra y espacio: \\ 
+* Tilde grave: \``
+* Asterisco y barra baja: \* \_
+* Parentesis: \{\} \[\] \(\)
+* Sostenido: \#
+* Otros: \+ \- \. \! \: \|
+
+<br>
+
+## Lıneas horizontales
+___
+---
+***
+_ _ _ _ 
+- - - -
+* * * *
+
+<br>
+
+## Comentarios
+Aquı hay un comentario
+
+<!-- Esto es un comentario --> 
+<br><br><br>
+
+# Codigo
+## Escribiendo codigo
+~~~
+    Codigo
+    aqui
+~~~
+
+<br>
+
+## Resaltado de sintaxis
+### python
+```python
+import lifetime
+for each_day in lifetime.days():
+carpe_diem()
+```
+### javascript
+```javascript
+const express = require('espress');
+var app = express();
+
+app.listen(3000, function () {
+  console.log('Servidor = http://localhost:3000');
+});
+```
+<br>
+
+## Inclusion de codigo de texto
+html, cuando el destino final sea un fichero .html
+
+Es posible <b>utilizar</b> marcas de html
