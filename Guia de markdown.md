@@ -2,26 +2,27 @@ MarkDown
 ===
 Indice
 ---
-1. [Elementos basicos](#Elementos-basicos)
-    1. [Titulos](#Titulos)
-    1. [tipografia](#Tipografia)
-    1. [Parrafos](#Parrafos)
-        1. [Mas de un parrafo](#Mas-de-un-parrafo)
-    1. [Listas](#Listas)
-        1. [Anidacion de Listas](#Anidacion-de-listas)
-        1. [Enumeraciones](#Enumeraciones)
-1. [Mas elementos de texto](#Mas-elementos-de-texto)
-    1. [Citas](#Citas)
-    1. [Tablas](#Tablas)
-        1. [Otros usos de las tablas](#Otros-usos-de-las-tablas)
-    1. [Enlaces](#Enlaces)
-    1. [Caracteres especiales](#Caracteres-especiales)
-1. [Codigo](#Codigo)
-    1. [Escribiendo codigo](#Escribiendo-codigo)
-    1. [Resaltado de sintaxis](#Resaltado-de-sintaxis)
-        1. [python](#python)
-        1. [javascript](#javascript)
-    1. [Inclusion de codigo de texto](#Inclusion-de-codigo-de-texto)
++ [Elementos basicos](#Elementos-basicos)
+    + [Titulos](#Titulos)
+    + [tipografia](#Tipografia)
+    + [Parrafos](#Parrafos)
+        + [Mas de un parrafo](#Mas-de-un-parrafo)
+    + [Listas](#Listas)
+        + [Anidacion de Listas](#Anidacion-de-listas)
+        + [Enumeraciones](#Enumeraciones)
++ [Mas elementos de texto](#Mas-elementos-de-texto)
+    + [Citas](#Citas)
+    + [Tablas](#Tablas)
+        + [Otros usos de las tablas](#Otros-usos-de-las-tablas)
+    + [Enlaces](#Enlaces)
+        + [Enlaces de imagenes](#Enlaces-de-imagenes)
+    + [Caracteres especiales](#Caracteres-especiales)
++ [Codigo](#Codigo)
+    + [Escribiendo codigo](#Escribiendo-codigo)
+    + [Resaltado de sintaxis](#Resaltado-de-sintaxis)
+        + [python](#python)
+        + [javascript](#javascript)
+    + [Inclusion de codigo de texto](#Inclusion-de-codigo-de-texto)
 ___
 
 
@@ -156,6 +157,14 @@ Es posible definir el [Enlace] para hacer mas legible el texto, o tener dos vers
 No hay sensibilidad a mayusculas. Puede haber mas de una palabra.
 
 [enlace]: http://es.wikipedia.org/wiki/Hiperenlace "Hiperenlace"
+
+<br>
+
+### Enlaces de imagenes
+![Daff Steel](images/logo.png "logo de daffsteel")
+![logo]
+
+[logo]: images/logo.png "enlace definido en otro lugar"
 
 <br>
 
