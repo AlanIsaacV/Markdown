@@ -2,26 +2,26 @@ MarkDown
 ===
 Indice
 ---
-1. [Elementos basicos](#Elementos%20basicos)
+1. [Elementos basicos](#Elementos-basicos)
     1. [Titulos](#Titulos)
     1. [tipografia](#Tipografia)
     1. [Parrafos](#Parrafos)
-        1. [Mas de un parrafo](#Mas%20de%20un%20parrafo)
+        1. [Mas de un parrafo](#Mas-de-un-parrafo)
     1. [Listas](#Listas)
-        1. [Anidacion de Listas](#Anidacion%20de%20listas)
+        1. [Anidacion de Listas](#Anidacion-de-listas)
         1. [Enumeraciones](#Enumeraciones)
-1. [Mas elementos de texto](#Mas%20elementos%20de%20texto)
+1. [Mas elementos de texto](#Mas-elementos-de-texto)
     1. [Citas](#Citas)
     1. [Tablas](#Tablas)
-        1. [Otros usos de las tablas](#Otros%20usos%20de%20las%20tablas)
+        1. [Otros usos de las tablas](#Otros-usos-de-las-tablas)
     1. [Enlaces](#Enlaces)
-    1. [Caracteres especiales](#Caracteres%20especiales)
+    1. [Caracteres especiales](#Caracteres-especiales)
 1. [Codigo](#Codigo)
-    1. [Escribiendo codigo](#Escribiendo%20codigo)
-    1. [Resaltado de sintaxis](#Resaltado%20de%20sintaxis)
+    1. [Escribiendo codigo](#Escribiendo-codigo)
+    1. [Resaltado de sintaxis](#Resaltado-de-sintaxis)
         1. [python](#python)
         1. [javascript](#javascript)
-    1. [Inclusion de codigo de texto](#Inclusion%20de%20codigo%20de%20texto)
+    1. [Inclusion de codigo de texto](#Inclusion-de-codigo-de-texto)
 ___
 
 
